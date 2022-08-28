@@ -1,1 +1,1 @@
-Creating an online Vegetable Store Applicatio.
+Creating an website for Question and Answer on various topics.
